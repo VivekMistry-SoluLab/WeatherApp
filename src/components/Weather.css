@@ -1,0 +1,38 @@
+.box {
+    width: 500px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: black;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    background: #f2f3f4;
+}
+
+.city-name{
+    margin: auto;
+    padding: 3px;
+    font-size: xx-large;
+    font-weight: bolder;
+    width: auto;
+}
+
+.weather-result{
+    margin: auto;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.min-max-weather{
+    margin: auto;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.input-data{
+    width: 100%;
+    margin: 40px 0px 40px 0px;
+    border-radius: 10px;
+    padding: 5px;
+}
